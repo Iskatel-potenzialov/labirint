@@ -16,4 +16,4 @@
 - ## Источник некоторых файлов
 
 Некоторые файлы были сгенерированы с использованием кода из внешнего проекта под лицензией GPLv3:  
-[JetsonYolov5]([https://github.com/username/repo](https://github.com/mailrocketsystems/JetsonYolov5)
+[JetsonYolov5](https://github.com/mailrocketsystems/JetsonYolov5)
