@@ -1,5 +1,13 @@
-# labirint
-проект робота на Jetson-Arduino
+# Vision-only Domino Escape — Jetson Nano + Arduino
+
+Краткое описание: тележка на базе **NVIDIA Jetson Nano** и **Arduino Nano**, которая находит и проезжает через единственный проход в кольце фишек-домино, используя только камеру и компьютерное зрение (YOLOv5 → TensorRT). Репозиторий содержит код для Jetson, скетч Arduino, готовый TensorRT-engine и вспомогательные файлы.
+
+## Что в репо
+- `app.py` — основной скрипт для Jetson  
+- `labirint.ino` — скетч для Arduino Nano  
+- `models/` — `best_domino_pol_050524.engine` (TensorRT engine)  
+- `models/ - `libmyplugins.so` — плагин
+- `LICENSE`
 
 
 ## Лицензия
