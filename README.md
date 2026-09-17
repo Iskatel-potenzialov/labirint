@@ -1,6 +1,8 @@
 # Vision-only Domino Escape — Jetson Nano + Arduino
 
 Краткое описание: тележка на базе **NVIDIA Jetson Nano** и **Arduino Nano**, которая находит и проезжает через единственный проход в кольце фишек-домино, используя только камеру и компьютерное зрение (YOLOv5 → TensorRT). Репозиторий содержит код для Jetson, скетч Arduino, готовый TensorRT-engine и вспомогательные файлы.
+Подробно на Хабр: https://habr.com/ru/articles/952590/
+
 
 ## Что в репо
 - `app.py` — основной скрипт для Jetson  
